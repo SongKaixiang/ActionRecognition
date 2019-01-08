@@ -6,6 +6,7 @@
 ```
 https://github.com/jeffreyhuang1/two-stream-action-recognition.git
 ```
+This is a demo need to be used company with https://github.com/jeffreyhuang1/two-stream-action-recognition. Download it and put the upper codes in the responsitory.
 
 2. Put **EasyStart** and **TestVideo** notebooks into the above repo folder.
 
